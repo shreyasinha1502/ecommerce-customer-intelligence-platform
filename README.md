@@ -31,9 +31,13 @@ This project is a production-ready Streamlit application that generates a realis
 ├── requirements.txt
 └── README.md
 ```
+## Deployment
+### Application Link :
+https://ecommerce-customer-intelligence-platform-hduzpx9dvqsw27pbpracx.streamlit.app/
 
-## Run
+## Application Preview
+![Project Snapshot1](https://github.com/shreyasinha1502/ecommerce-customer-intelligence-platform/blob/main/Capture1.PNG)
+![Project Snapshot2](https://github.com/shreyasinha1502/ecommerce-customer-intelligence-platform/blob/main/Capture2.PNG)
+![Project Snapshot3](https://github.com/shreyasinha1502/ecommerce-customer-intelligence-platform/blob/main/Capture3.PNG)
 
-```bash
-streamlit run app.py
-```
+
